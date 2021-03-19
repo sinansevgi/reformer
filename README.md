@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 ## Micro-Reddit
 
 > These projects will give you a chance to actually build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides. In this project, we will built a form the old fashioned way and then the Rails way. .[Full Task Description](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms#project-bare-metal-forms-and-helpers).
@@ -64,8 +62,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse for showing the way for this project to happen
-- The Odin Project.
+- Thanks to The Odin Project for their great guides.
 
 ## License
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
